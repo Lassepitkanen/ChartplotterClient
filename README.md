@@ -1,4 +1,6 @@
-# map-view
+# ChartplotterClient
+
+ChartPlotter websocket client.
 
 ## Project setup
 ```
